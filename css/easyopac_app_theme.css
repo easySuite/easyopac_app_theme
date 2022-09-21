@@ -1,0 +1,17 @@
+/**
+  Overriding some base theme styles.
+ */
+body.search-form-extended {
+  padding-top: 64px !important;
+}
+.site-header .navigation-wrapper {
+  padding-top: 84px !important;
+  top: 0 !important;
+}
+.search-form-extended .site-header .pane-search-form,
+.search-form-extended.extended-search-is-not-open .site-header .pane-search-form {
+  top: 84px !important;
+}
+.logo {
+  display: none !important;
+}

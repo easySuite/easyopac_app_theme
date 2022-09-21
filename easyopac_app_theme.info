@@ -1,0 +1,7 @@
+name = "easyOPAC App Theme"
+description = "easyOPAC theme for mobile app."
+package = easyOPAC
+core = 7.x
+base theme = ddbasic
+
+stylesheets[all][] = css/easyopac_app_theme.css
