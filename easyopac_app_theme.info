@@ -1,7 +1,7 @@
 name = "easyOPAC App Theme"
 description = "easyOPAC theme for mobile app."
 package = easyOPAC
-version = 7.x-1.0.0
+version = 7.x-6.6.0
 core = 7.x
 base theme = ddbasic
 
